@@ -20,5 +20,8 @@ Subtype is the interface that is extending or implementing the other type while 
 
 
 
-Q2) Professor Kernighan is not a fan of the language Pascal because the language is intended to be primarily a teaching language, but not suitable for serious programming. String handling is tedious because it is not possible to write general-purpose routings that deal with arrays of different sizes. Lack of static variables and initializing require the constant use of scope. Standard I/O is defective hence there is specification dealing with files or program arguments for standard language.  
+Q2) Professor Kernighan is not a fan of the language Pascal because the language is intended to be primarily a teaching language, 
+but not suitable for serious programming. String handling is tedious because it is not possible to write general-purpose routings that deal with arrays of different sizes. 
+Lack of static variables and initializing require the constant use of scope. 
+Standard I/O is defective hence there is specification dealing with files or program arguments for standard language.  
 
