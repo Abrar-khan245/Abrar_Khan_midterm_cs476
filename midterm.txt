@@ -1,1 +1,24 @@
 ready for the midterm
+
+
+Q1) Type errors are 
+
+static int fvar = 0;
+Public int fvar 1 = 2_0
+Public int f()  {
+	Return fvar = 1;
+}
+
+non-static variable this cannot be referenced from a static context
+ 	fvar = Main.this.fvar1; 
+
+Subtype is the interface that is extending or implementing the other type while the supertype has been extended or implemented by the class of the other type. These are binary relations on types. 
+
+(JLS 4.10)
+
+
+
+
+
+Q2) Professor Kernighan is not a fan of the language Pascal because the language is intended to be primarily a teaching language, but not suitable for serious programming. String handling is tedious because it is not possible to write general-purpose routings that deal with arrays of different sizes. Lack of static variables and initializing require the constant use of scope. Standard I/O is defective hence there is specification dealing with files or program arguments for standard language.  
+
